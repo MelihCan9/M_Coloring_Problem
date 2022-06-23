@@ -10,3 +10,6 @@ In ‘paint_map’ method, I initialized all the vertices without any color. The
 And finally, here are some sample outputs of my code:
 
 ![image](https://user-images.githubusercontent.com/73959073/175181109-6fb5a856-dbd4-4571-a26a-6b90b20d01e4.png)
+
+![image](https://user-images.githubusercontent.com/73959073/175181212-e057fe10-de8f-448d-bb61-bd7591193619.png)
+
